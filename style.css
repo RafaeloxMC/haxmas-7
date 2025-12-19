@@ -7,6 +7,7 @@
 }
 
 body {
+	overflow: hidden;
 	font-family: sans-serif;
 	background-image: url("img/backgroundtile.png");
 	color: azure;
