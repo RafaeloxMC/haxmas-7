@@ -69,6 +69,14 @@ body {
 
 .important-text {
 	color: #5bc0de;
+	background-color: #0000004b;
+	border-radius: 25px;
+	width: fit-content;
+	padding: 1vh;
+	padding-right: 2vh;
+	padding-left: 2vh;
+	margin-left: auto;
+	margin-right: auto;
 }
 
 /* Snow effect */
